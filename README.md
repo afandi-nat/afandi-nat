@@ -18,3 +18,17 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="21px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" /></a>
   <br>
   <br>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afandi-nat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afandi-nat&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/afandi-nur-aziz-thohari-2aa4696a/">LinkedIn</a>
+- <a href="https://afandistudio.net/">Website</a>
+- afandi@polines.ac.id
+- <a href="https://www.instagram.com/fun_dii/?hl=id">Instagram</a>
